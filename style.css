@@ -2,10 +2,19 @@ body{
    background-color: #fab5f1; 
 }
 
+header{
+    background-color: #000;
+}
+
+main{
+    background-color: #83d7f8;
+}
 h1{ 
     color: #e60bc8;
 
 }
 
-
+footer {
+    background-color: #000;
+}
 
